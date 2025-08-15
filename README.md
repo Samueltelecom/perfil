@@ -1,4 +1,4 @@
-# Samueltecom
+# Samueltelecom
 # 👋 Olá, eu sou Samuel!
 
 🎓 Estudante de Engenharia Química e Ciência da Computação apaixonado por dados, tecnologia e inovação.  
